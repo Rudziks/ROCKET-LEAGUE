@@ -11,7 +11,6 @@ body{
     background-color: rgb(26, 26, 26);
     height: 80px;
     width: 1704px;
-    position: fixed;
     margin-top: 10px;
 }
 
@@ -23,4 +22,55 @@ body{
 
 .main-nav-br{
     border-bottom: solid black;
+}
+
+.Z-1{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 100px;
+ }
+ 
+ .Z-H-1{
+    text-align: center;
+    color: white;
+}
+
+.Z-H-1-br{
+    border-bottom: solid rgb(0, 140, 255); 
+    width: 60%;
+    margin-left: 350px;
+}
+
+.Z-1-T{
+    text-align: center;
+}
+
+.Z-1-M{
+    margin-top: 10px;
+}
+
+.Z-3{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 100px;
+ }
+ 
+ .Z-H-3{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+.Z-H-3-br{
+    border-bottom: solid rgb(0, 140, 255); 
+    width: 60%;
+    margin-left: 350px;
+}
+
+.Z-3-T{
+    text-align: center;
+}
+
+.Z-3-M{
+    margin-top: 10px;
 }
