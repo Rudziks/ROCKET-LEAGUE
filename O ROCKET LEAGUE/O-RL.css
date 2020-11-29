@@ -7,9 +7,6 @@ body{
     margin-right: 80px;
 }
 
-p.impact {
-font-family: Impact, Charcoal, sans-serif;
-}
 
 .main-nav{
     background-color: rgb(26, 26, 26);
@@ -30,5 +27,5 @@ font-family: Impact, Charcoal, sans-serif;
 }
 
 .main-c-1{
-    padding-top: 200px;
+    padding-top: 150px;
 }
