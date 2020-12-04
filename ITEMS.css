@@ -12,7 +12,6 @@ body{
     height: 80px;
     width: 1704px;
     margin-top: 10px;
-    margin-left: 20px;
 }
 
 .main-nav-f{
@@ -24,3 +23,29 @@ body{
 .main-nav-br{
     border-bottom: solid black;
 }
+
+.Z-1{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 100px;
+ }
+ 
+ .Z-H-1{
+    text-align: center;
+    color: white;
+}
+
+.Z-H-1-br{
+    border-bottom: solid rgb(0, 140, 255); 
+    width: 60%;
+    margin-left: 350px;
+}
+
+.Z-1-T{
+    text-align: center;
+}
+
+.Z-1-M{
+    margin-top: 10px;
+}
+
