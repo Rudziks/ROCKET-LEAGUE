@@ -24,11 +24,6 @@ body{
     border-bottom: solid black;
 }
 
-.Z-1{
-    margin-top: 30px;
-    background-color: rgba(0, 0, 0, 0.336);
-    height: 100px;
- }
  
  .Z-H-1{
     text-align: center;
@@ -41,6 +36,12 @@ body{
     margin-left: 350px;
 }
 
+.Z-1{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 100px;
+ }
+
 .Z-1-T{
     text-align: center;
 }
@@ -49,3 +50,19 @@ body{
     margin-top: 10px;
 }
 
+.h1-a{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.Z-1-A{
+    background-color: rgba(0, 0, 0, 0.336);
+    text-align: center;
+}
+
+.Z-1-a{
+    margin-top: 10px;
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 80px;
+}

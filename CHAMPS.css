@@ -48,3 +48,15 @@ body{
 .Z-1-M{
     margin-top: 10px;
 }
+
+.t-a{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.Z-1-a{
+    margin-top: 10px;
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 80px;
+}
