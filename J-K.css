@@ -28,9 +28,9 @@ body{
     margin-top: 30px;
     background-color: rgba(0, 0, 0, 0.336);
     height: 100px;
- }
- 
- .Z-H-1{
+}
+
+.Z-H-1{
     text-align: center;
     color: white;
 }
@@ -47,4 +47,9 @@ body{
 
 .Z-1-M{
     margin-top: 10px;
+}
+
+.t-a{
+    text-align: center;
+    padding-top: 25px;
 }

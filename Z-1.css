@@ -42,9 +42,9 @@ font-family: Impact, Charcoal, sans-serif;
 }
 
 .Z-1{
-   margin-top: 20px; 
-   background-color: rgba(0, 0, 0, 0.336);
-   height: 100px;
+    margin-top: 20px; 
+    background-color: rgba(0, 0, 0, 0.336);
+    height: 100px;
 }
 
 .Z-H-1{
@@ -60,6 +60,7 @@ font-family: Impact, Charcoal, sans-serif;
 
 .Z-1-T{
     text-align: center;
+    font-size: 20px;
 }
 
 .main-c-1{
@@ -68,4 +69,9 @@ font-family: Impact, Charcoal, sans-serif;
 
 .main-c-h-1{
     text-align: center;
+}
+
+.t-a{ 
+    text-align: center;
+    font-size: 16px;
 }

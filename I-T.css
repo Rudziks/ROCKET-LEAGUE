@@ -30,6 +30,16 @@ body{
     height: 100px;
  }
  
+
+.Z-1-T{
+    text-align: center;
+}
+
+.Z-1-M{
+    margin-top: 10px;
+}
+
+ 
  .Z-H-1{
     text-align: center;
     color: white;
@@ -41,11 +51,8 @@ body{
     margin-left: 350px;
 }
 
-.Z-1-T{
+.t-a{
     text-align: center;
-}
-
-.Z-1-M{
-    margin-top: 10px;
+    padding-top: 25px;
 }
 
