@@ -26,8 +26,8 @@ body {
 
 .Z-1 {
   margin-top: 30px;
-  background-color: rgba(0, 0, 0, 0.336);
-  height: 100px;
+  background-color:rgba(0, 0, 0, 0.671);
+  height: 80px;
 }
 
 .Z-H-1 {
@@ -55,4 +55,16 @@ body {
 
 .main-dd-f{
   color: white;
+}
+
+.t-a-1{
+  padding-left: 21px;
+  font-size: 20px;
+  color: white;
+}
+
+.Z-1-m {
+  margin-top: 30px;
+  background-color:rgba(0, 0, 0, 0.671);
+  height: 180px;
 }

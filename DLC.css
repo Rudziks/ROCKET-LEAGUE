@@ -37,7 +37,7 @@ body {
 
 .Z-1 {
   margin-top: 30px;
-  background-color: rgba(0, 0, 0, 0.336);
+  background-color:rgba(0, 0, 0, 0.671);
   height: 100px;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 .Z-1-A {
-  background-color: rgba(0, 0, 0, 0.336);
+  background-color: rgba(0, 0, 0, 0.671);
   text-align: center;
   height: 250px
 }
@@ -65,7 +65,7 @@ body {
 .Z-1-a {
   margin-top: 10px;
   padding-top: 10px;
-  background-color: rgba(0, 0, 0, 0.336);
+  background-color: rgba(0, 0, 0, 0.671);
   height: 80px;
 }
 
