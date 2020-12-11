@@ -12,7 +12,7 @@ font-family: Impact, Charcoal, sans-serif;
 }
 
 .main-nav{
-    background-color: rgb(26, 26, 26);
+    background-color:rgb(15, 15, 15);
     height: 80px;
     width: 1704px;
     position: fixed;
@@ -74,4 +74,13 @@ font-family: Impact, Charcoal, sans-serif;
 .t-a{ 
     text-align: center;
     font-size: 18px;
+    color: white;
+}
+
+.main-dd{
+    background-color: rgb(15, 15, 15);
+}
+
+.main-dd-f{
+    color: white; 
 }

@@ -1,6 +1,5 @@
 body {
   background-image: url(./img/bgimg2.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
   margin-left: 80px;
@@ -8,7 +7,7 @@ body {
 }
 
 .main-nav {
-  background-color: rgb(26, 26, 26);
+  background-color: rgb(15, 15, 15);
   height: 80px;
   width: 1704px;
   margin-top: 10px;
@@ -53,6 +52,7 @@ body {
   text-align: center;
   padding-top: 25px;
   font-size: 20px;
+  color: white;
 }
 
 .Z-1-a {
@@ -60,4 +60,12 @@ body {
   padding-top: 10px;
   background-color: rgba(0, 0, 0, 0.336);
   height: 80px;
+}
+
+.main-dd{
+  background-color: rgb(15, 15, 15);
+}
+
+.main-dd-f{
+  color: white;
 }

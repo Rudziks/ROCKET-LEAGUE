@@ -8,7 +8,7 @@ body {
 }
 
 .main-nav {
-  background-color: rgb(26, 26, 26);
+  background-color: rgb(15, 15, 15);
   height: 80px;
   width: 1704px;
   margin-top: 10px;
@@ -47,4 +47,12 @@ body {
 
 .Z-1-M {
   margin-top: 10px;
+}
+
+.main-dd{
+  background-color: rgb(15, 15, 15);
+}
+
+.main-dd-f{
+  color: white;
 }

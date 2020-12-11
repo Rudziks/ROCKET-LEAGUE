@@ -8,7 +8,7 @@ body{
 }
 
 .main-nav{
-    background-color: rgb(26, 26, 26);
+    background-color:rgb(15, 15, 15);
     height: 80px;
     width: 1704px;
     margin-top: 10px;
@@ -79,3 +79,18 @@ body{
     margin-top: 10px;
 }
 
+.m-c{
+    background-color: rgb(15, 15, 15);
+}
+
+.m-c-t{
+    color:rgb(0, 140, 255) ;
+}
+
+.main-dd{
+    background-color: rgb(15, 15, 15);
+}
+
+.main-dd-f{
+    color: white;
+}

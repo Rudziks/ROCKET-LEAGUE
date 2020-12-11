@@ -1,14 +1,13 @@
 body {
   background-image: url(./img/bgimg2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   height: 100vh;
   margin-left: 80px;
   margin-right: 80px;
 }
 
 .main-nav {
-  background-color: rgb(26, 26, 26);
+  background-color: rgb(15, 15, 15);
   height: 80px;
   width: 1704px;
   margin-top: 10px;
@@ -52,11 +51,25 @@ body {
 .t-a {
   text-align: center;
   padding-top: 25px;
-  font-size: 20px;
+  font-size: 18px;
+  color: white;
 }
 
 .Z-1-m {
-  margin-top: 30px;
+  margin-top: 5px;
   background-color: rgba(0, 0, 0, 0.336);
   height: 130px;
+}
+
+.Z-2-m {
+  margin-top: 5px;
+  background-color: rgba(0, 0, 0, 0.336);
+}
+
+.main-dd{
+  background-color: rgb(15, 15, 15);
+}
+
+.main-dd-f{
+  color: white;
 }
