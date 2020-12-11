@@ -1,5 +1,5 @@
 body {
-  background-image: url(./img/Champions\ Field.png);
+  background-image: url(./img/bgimg2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -52,4 +52,11 @@ body {
 .t-a {
   text-align: center;
   padding-top: 25px;
+  font-size: 20px;
+}
+
+.Z-1-m {
+  margin-top: 30px;
+  background-color: rgba(0, 0, 0, 0.336);
+  height: 130px;
 }

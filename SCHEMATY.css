@@ -1,5 +1,5 @@
 body {
-  background-image: url(./img/Champions\ Field.png);
+  background-image: url(./img/bgimg2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -47,4 +47,20 @@ body {
 
 .Z-1-M {
   margin-top: 10px;
+}
+
+
+.Z-1-m {
+  margin-top: 30px;
+  background-color: rgba(0, 0, 0, 0.336);
+}
+
+.t-a-1{
+  padding-left: 21px;
+  font-size: 20px;
+}
+
+.t-a-2{
+  padding-top: 10px;
+  font-size: 20px;
 }

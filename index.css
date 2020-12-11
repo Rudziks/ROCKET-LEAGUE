@@ -1,5 +1,5 @@
 body{
-    background-image: url(./img/Champions\ Field.png);
+    background-image: url(./img/bgimg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -44,7 +44,7 @@ font-family: Impact, Charcoal, sans-serif;
 .Z-1{
     margin-top: 20px; 
     background-color: rgba(0, 0, 0, 0.336);
-    height: 100px;
+    height: 150px;
 }
 
 .Z-H-1{
@@ -73,5 +73,5 @@ font-family: Impact, Charcoal, sans-serif;
 
 .t-a{ 
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
 }
